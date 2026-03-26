@@ -12,32 +12,20 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 👨‍💻 About Me
-```python
-class FernandoAyala:
-    def __init__(self):
-        self.name = "Fernando Ayala"
-        self.role = "Aerospace Engineer → AI/ML Developer"
-        self.education = "M.S. Artificial Intelligence — UNIR (in progress)"
-        self.languages = ["Python", "SQL", "C#", "Mandarin (learning) 🀄"]
-        self.interests = ["NLP", "Machine Learning", "AI Safety"]
+## 🚀 Currently
 
-    def current_focus(self):
-        return [
-            "Building NLP projects",
-            "Applying ML to real-world problems",
-            "Bridging aerospace and AI"
-        ]
-```
+- 🎓 M.S. in Artificial Intelligence — UNIR (in progress)
+- 🔨 Building: Steam Reviews Sentiment Analyzer
+- 🀄 Learning Mandarin Chinese
 
 ---
 
 ## 🤝 Let's Connect!
-
-Always open to interesting projects and new ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ayala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ayala)
 
