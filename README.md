@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fernando Ayala 👋
 
-<!--
-**fayala-dev/fayala-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. in Artificial Intelligence — UNIR (in progress)
+✈️ Aerospace Engineer transitioning to AI/ML
+📍 Chihuahua, México
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+- **Python** — pandas, scikit-learn, NLTK
+- SQL, C#
+- NLP, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+- Studying NLP and ML in my master's program
+- Learning Mandarin Chinese 🀄
+
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ayala-blue)](https://linkedin.com/in/fernando-ayala)
