@@ -33,3 +33,7 @@
 
 ## ⚡ Fun Fact
 Tolkien fan who traded Middle-earth maps for neural networks 🧙
+
+## 📊 GitHub Stats
+
+![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayala-dev&show_icons=true&theme=tokyonight)
