@@ -37,5 +37,5 @@ Tolkien fan who traded Middle-earth maps for neural networks 🧙
 ## 📊 GitHub Stats
 
 ![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayala-dev&show_icons=true&theme=tokyonight)
-![LeetCode Stats](https://leetcard.jacoblin.cool/fayala-dev?theme=dark&ext=heatmap,contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fayala-dev?theme=dark&ext=heatmap)
 
